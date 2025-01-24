@@ -1,6 +1,7 @@
 # Theodor von Brentano
 
-[Profilbild] src="https://1drv.ms/i/c/591d232c0136be24/ETBs8Y7uCrVBl1-wTSyD7n0BnzPu5Gx9OwlgblYG1AYRng?e=7SwL4j" alt="Profilbild" width="150" align="right">
+![image](https://github.com/user-attachments/assets/95d3b471-b1bc-41f8-80a8-1afbc00b65bb)
+
 
 ## Am Schloßpark 102  
 ## Wiesbaden, Biebrich, 65203  
@@ -44,7 +45,8 @@ Ich bin äußerst freundlich und ein guter Zuhörer. Ich strebe ständig danach,
 ### 🍽️ **Restaurant MIN Aviapolis, Vantaa, Finnland** *(Oktober 2023)*
 - Sprachpraktikum
 
-###
+### 🖥️ **TechStarter, Deutschland** *(20.01.2025)*
+- Ausbildung
 
 ---
 
