@@ -27,7 +27,7 @@ Ich bin äußerst freundlich und ein guter Zuhörer. Ich strebe ständig danach,
 - **2011**: Internationales allgemeinbildendes Abschlusszertifikat (Cambridge IGCSE), Braeburn Garden Estate Secondary School & British Council, Nairobi, Kenia  
 - **2011-2013**: AS- und A-Level-Kurse in Englisch, Mathematik, Biologie und Chemie *(ohne Abschluss)*  
 - **2023**: Finnischer Integrationskurs *(Niveaustufen A1 und A2 erfolgreich abgeschlossen)*  
-
+- **2025**: Ausbildung bei TechStarter
 ---
 
 ## 💼 Berufserfahrung
@@ -52,8 +52,10 @@ Ich bin äußerst freundlich und ein guter Zuhörer. Ich strebe ständig danach,
 
 ## 📩 Kontakt  
 
-Ich hoffe, dass ich gut zu Ihrem Unternehmen passe und die Möglichkeit bekomme, mich persönlich in einem Vorstellungsgespräch vorzustellen. Ich bin flexibel und kann jederzeit zu einem Gespräch erscheinen. Ich freue mich darauf, Sie kennenzulernen und mehr über meine Qualifikationen zu berichten.
+Für Rückfragen stehe ich Ihnen jederzeit telefonisch oder per E-Mail zur Verfügung. Sie können mich gerne unter meiner Mobilnummer oder per Mail erreichen.
+
 
 **Mit freundlichen Grüßen,**  
+
 **Theodor von Brentano**
 
