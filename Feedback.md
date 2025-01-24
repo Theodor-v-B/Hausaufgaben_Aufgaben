@@ -1,5 +1,11 @@
 # Feedback für die erste Woche 20.01.2025 - 24.01.2025
 
+- **Word**
+- **Excel**
+- **PowerPoint**
+- **Google Office**
+- **GitHub**
+- **Und noch vieles mehr**
 
 | Feedback            | Kommentar           |
 |:------------------- |:-------------------:|
