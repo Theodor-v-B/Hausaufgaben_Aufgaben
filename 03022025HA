@@ -1,0 +1,64 @@
+PSEUDOCODE
+
+begin
+   while nicht Ziel erreicht
+      gehe (1 Schritt vorwärts)
+      if (Treffer auf Hindernis)
+         drehe (nach rechts)
+   end
+
+
+
+
+
+
+STRUKTOGRAMM
+
++-----------------------+
+| Begin                 |
++-----------------------+
+| gehe (1 Schritt vorwärts)  |
++-----------------------+
+| wenn (Treffer auf Hindernis)|
+|    drehe (nach rechts)    |
++-----------------------+
+| gehe (1 Schritt vorwärts)  |
++-----------------------+
+| bis (Ziel erreicht)       |
++-----------------------+
+| Ende                   |
++-----------------------+
+
+
+
+
+
+FLUSSDIAGRAMM
+
+        Start
+          |
+Gehe (1 Schritt vorwärts)
+          |
++-------------------+
+|  Ist Hindernis?  |
++-------------------+
+    |            |
+   JA           NEIN
+    |            |
+Drehe nach      Gehe (1 Schritt vorwärts)
+rechts           |
+    |            |
+    |            |
+    |      +------------------------+
+    |      |   Ist Zeil erreicht?   |
+    |      +------------------------+
+    |            |
+    |           JA
+    |            |
+  ENDE          ENDE
+
+
+
+
+
+
