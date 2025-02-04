@@ -16,19 +16,19 @@ AUFGABE 1.2
 --------------------------------------
 
 BEGIN
-    INPUT grade
+    INPUT note
     
-    IF grade == 1 THEN
+    IF note == 1 THEN
         OUTPUT "Sehr gut"
-    ELSE IF grade == 2 THEN
+    ELSE IF note == 2 THEN
         OUTPUT "Gut"
-    ELSE IF grade == 3 THEN
+    ELSE IF note == 3 THEN
         OUTPUT "Befriedigend"
-    ELSE IF grade == 4 THEN
+    ELSE IF note == 4 THEN
         OUTPUT "Ausreichend"
-    ELSE IF grade == 5 THEN
+    ELSE IF note == 5 THEN
         OUTPUT "Mangelhaft"
-    ELSE IF grade == 6 THEN
+    ELSE IF note == 6 THEN
         OUTPUT "Ungenügend"
     ENDIF
 END
@@ -40,14 +40,14 @@ AUFGABE 1.3
 -------------------------------------
 
 BEGIN
-    INPUT number
+    INPUT nummer
     
-    IF number <= 1 THEN
+    IF nummer <= 1 THEN
         OUTPUT "Keine Primzahl"
     ELSE
         isPrime = TRUE
-        FOR i FROM 2 TO sqrt(number) DO
-            IF number MOD i == 0 THEN
+        FOR i FROM 2 TO sqrt(nummer) DO
+            IF nummer MOD i == 0 THEN
                 isPrime = FALSE
                 BREAK
             ENDIF
@@ -62,3 +62,19 @@ BEGIN
 END
 
 [Quelle] (https://de.mathworks.com/help/matlab/ref/isprime.html)]
+
+#####################################
+
+Aufgabe 2.1
+
+-------------------------------------
+
+IF Bedingunggg THEN
+    // Code, der ausgeführt wird, wenn die Bedingung wahr ist
+ELSE
+    // Code, der ausggeführt wird, wenn die Bedingung falsch ist
+ENDIF
+
+FOR i FROM 1 TO n DO
+    // Code, der n-mal ausgeführt wird
+END FOR
