@@ -1,0 +1,64 @@
+AUFGABE 1
+
+---------------------------------------
+
+BEGIN
+    INPUT number1
+    INPUT number2
+    result = number1 * number2
+    OUTPUT result
+END
+
+########################################
+
+AUFGABE 2
+
+--------------------------------------
+
+BEGIN
+    INPUT grade
+    
+    IF grade == 1 THEN
+        OUTPUT "Sehr gut"
+    ELSE IF grade == 2 THEN
+        OUTPUT "Gut"
+    ELSE IF grade == 3 THEN
+        OUTPUT "Befriedigend"
+    ELSE IF grade == 4 THEN
+        OUTPUT "Ausreichend"
+    ELSE IF grade == 5 THEN
+        OUTPUT "Mangelhaft"
+    ELSE IF grade == 6 THEN
+        OUTPUT "Ungenügend"
+    ENDIF
+END
+
+#####################################
+
+AUFGABE 3
+
+-------------------------------------
+
+BEGIN
+    INPUT number
+    
+    IF number <= 1 THEN
+        OUTPUT "Keine Primzahl"
+    ELSE
+        isPrime = TRUE
+        FOR i FROM 2 TO sqrt(number) DO
+            IF number MOD i == 0 THEN
+                isPrime = FALSE
+                BREAK
+            ENDIF
+        END FOR
+        
+        IF isPrime THEN
+            OUTPUT "Primzahl"
+        ELSE
+            OUTPUT "Keine Primzahl"
+        ENDIF
+    ENDIF
+END
+
+[Quelle] (https://de.mathworks.com/help/matlab/ref/isprime.html)]
