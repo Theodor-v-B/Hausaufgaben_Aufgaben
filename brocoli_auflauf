@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mein Brokkoli-Auflauf Rezept</title>
+</head>
+<body>
+    <header>
+        <h1>Brokkoli-Auflauf</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Zutaten</h2>
+            <ul>
+                <li>Brokkoli</li>
+                <li>Bechamelsauce</li>
+                <li>Käse</li>
+                <li>Salz & Pfeffer</li>
+                <!-- Weitere Zutaten hinzufügen -->
+            </ul>
+        </section>
+        <section>
+            <h2>Zubereitung</h2>
+            <ol>
+                <li>Brokkoli waschen und vorkochen</li>
+                <li>Bechamelsauce zubereiten</li>
+                <li>Brokkoli in eine Auflaufform geben</li>
+                <li>Bechamelsauce darüber gießen</li>
+                <li>Mit Käse bestreuen und backen</li>
+            </ol>
+        </section>
+        <section>
+            <h2>Fertiges Gericht</h2>
+            <img src="dein-bild-pfad.jpg" alt="Brokkoli-Auflauf" />
+        </section>
+    </main>
+    <footer>
+        <p>Guten Appetit!</p>
+    </footer>
+</body>
+</html>
